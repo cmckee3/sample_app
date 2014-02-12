@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contact"
+			],
+			[
+				"A",
+				"About"
+			],
+			[
+				"t",
+				"test"
+			],
+			[
+				"TR",
+				"true"
+			],
+			[
+				"S",
+				"s3_credentials"
+			],
+			[
+				"re",
+				"respond_with"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"l",
+				"localhost"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"rub",
+				"RubyTest: Run Last Ruby Test"
+			],
+			[
+				"ruby",
+				"RubyTest: Show Test Panel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ru",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"Pac",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chriswm/code/sample_app/app/views/users/new.html.erb",
+		"/Users/chriswm/code/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/chriswm/code/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/chriswm/Code/sample_app/spec/support/utilities.rb",
+		"/Users/chriswm/code/sample_app/config/routes.rb",
+		"/Users/chriswm/code/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/chriswm/code/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/chriswm/code/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/chriswm/code/sample_app/app/assets/stylesheets/application.css",
+		"/Users/chriswm/code/sample_app/app/views/layouts/application.html.erb",
+		"/Users/chriswm/code/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/chriswm/code/sample_app/config/application.rb",
+		"/Users/chriswm/Code/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/chriswm/Code/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/chriswm/Code/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/chriswm/code/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/chriswm/code/sample_app/Gemfile",
+		"/Users/chriswm/Code/sample_app/app/example_user.rb",
+		"/Users/chriswm/code/sample_app/.autotest",
+		"/Users/chriswm/Code/sample_app/.autotest",
+		"/Users/chriswm/code/sample_app/spec/spec_helper.rb",
+		"/Users/chriswm/code/sample_app/app/helpers/application_helper.rb",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/RubyTest/run_ruby_test.py",
+		"/Users/chriswm/code/sample_app/run_ruby_test.py",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings_old.json",
+		"/Users/chriswm/Code/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-setting",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings.json",
+		"/Users/chriswm/Code/sample_app/Gemfile",
+		"/Users/chriswm/Code/sample_app/spec/spec_helper.rb",
+		"/Users/chriswm/Code/sample_app/.rspec",
+		"/Users/chriswm/Code/sample_app/Guardfile",
+		"/Users/chriswm/code/sample_app/Guardfile",
+		"/Users/chriswm/Code/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/chriswm/Code/sample_app/.gitignore",
+		"/Users/chriswm/Code/sample_app/config/routes.rb",
+		"/Users/chriswm/Code/sample_app/app/views/layouts/application.html.erb",
+		"/Users/chriswm/Code/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/chriswm/Code/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/chriswm/Code/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/chriswm/Code/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/chriswm/Code/sample_app/README.rdoc",
+		"/Users/chriswm/Code/sample_app/config/database.yml",
+		"/Users/chriswm/code/blog/.git/config",
+		"/Users/chriswm/Code/blog/config/database.yml",
+		"/Users/chriswm/Code/blog/Gemfile",
+		"/Users/chriswm/Code/blog/Gemfile_old",
+		"/Users/chriswm/Code/sample_app/sample_app/Gemfile",
+		"/Users/chriswm/Code/sample_app/sample_app/app/views/welcome/index.html.erb",
+		"/Users/chriswm/Code/sample_app/sample_app/config/database.yml",
+		"/Users/chriswm/code/sample_app/sample_app/.git/config",
+		"/Users/chriswm/Code/sample_app/sample_app/config/routes.rb",
+		"/Users/chriswm/Code/blog/app/models/comment.rb",
+		"/Users/chriswm/Code/blog/config/environment.rb",
+		"/Users/chriswm/Code/blog/config/routes.rb",
+		"/Users/chriswm/Code/blog/db/migrate/20140209042929_rename_password_to_hashed_passwo.rb",
+		"/Users/chriswm/Code/blog/app/models/user.rb",
+		"/Users/chriswm/Code/blog/.gitignore",
+		"/Users/chriswm/code/blog/.git/COMMIT_EDITMSG",
+		"/Users/chriswm/Code/blog/app/models/article.rb",
+		"/Users/chriswm/Code/blog/app/models/category.rb",
+		"/Users/chriswm/Code/blog/log/development.log",
+		"/Users/chriswm/Code/blog/db/seeds.rb",
+		"/Users/chriswm/Code/blog/db/migrate/20140207213345_create_articles_categories.rb",
+		"/Users/chriswm/Code/blog/db/migrate/20140207194806_add_user_id_to_articles.rb",
+		"/Users/chriswm/Code/blog/test/controllers/articles_controller_test.rb",
+		"/Users/chriswm/Code/blog/config/environments/development.rb",
+		"/Users/chriswm/Code/blog/config/environments/test.rb",
+		"/Users/chriswm/Code/blog/db/migrate/20140203221418_create_profiles.rb",
+		"/Users/chriswm/Code/blog/app/models/profile.rb",
+		"/Users/chriswm/Code/blog/hello.rb",
+		"/Users/chriswm/Code/blog/fizzbuzz.rb",
+		"/Users/chriswm/Code/blog/.gitconfig",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/chriswm/Code/blog/db/migrate/20140131193108_create_articles.rb",
+		"/Users/chriswm/Code/blog/app/views/posts/new.html.erb",
+		"/Users/chriswm/Code/blog/app/controllers/posts_controller.rb",
+		"/Users/chriswm/Code/myapp2/config/database.yml",
+		"/Users/chriswm/Code/blog/app/views/welcome/index.html.erb",
+		"/Users/chriswm/Code/myapp2/config/routes.rb",
+		"/Users/chriswm/Code/myapp2/app/views/welcome/index.html.erb",
+		"/Users/chriswm/rails_projects/myapp/myapp/config/routes.rb",
+		"/Users/chriswm/rails_projects/myapp/myapp/app/views/welcome/index.html.erb",
+		"/Users/chriswm/rails_projects/geo-photo/procfile",
+		"/Users/chriswm/rails_projects/geo-photo/.env",
+		"/Users/chriswm/rails_projects/geo-photo/Gemfile",
+		"/Users/chriswm/rails_projects/geo-photo/config.ru",
+		"/Users/chriswm/rails_projects/geo-photo/app/models/photo.rb",
+		"/Users/chriswm/rails_projects/geo-photo/app/controllers/photos_controller.rb",
+		"/Users/chriswm/rails_projects/geo-photo/db/seeds.rb",
+		"/Users/chriswm/rails_projects/geo-photo/public/heroku.png",
+		"/Users/chriswm/rails_projects/geo-photo/config/initializers/s3.rb",
+		"/Users/chriswm/rails_projects/geo-photo/db/migrate/20120617172029_create_photos.rb",
+		"/Users/chriswm/rails_projects/geo-photo/config/database.yml",
+		"/Users/chriswm/rails_projects/geo-photo/db/migrate/20120603181431_create_photos.rb",
+		"/Users/chriswm/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/chriswm/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/chriswm/rails_projects/sample_app/Guardfile",
+		"/Users/chriswm/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/chriswm/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/chriswm/rails_projects/sample_app/.rspec",
+		"/Users/chriswm/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/chriswm/rails_projects/sample_app/Gemfile",
+		"/Users/chriswm/rails_projects/sample_app/.gitignore",
+		"/Users/chriswm/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/chriswm/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/chriswm/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/chriswm/rails_projects/sample_app/config/routes.rb",
+		"/Users/chriswm/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/chriswm/rails_projects/sample_app/public/hello.html",
+		"/Users/chriswm/rails_projects/sample_app/README.rdoc",
+		"/Users/chriswm/rails_projects/demo_app/app/models/user.rb",
+		"/Users/chriswm/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/chriswm/rails_projects/demo_app/.git/COMMIT_EDITMSG",
+		"/Users/chriswm/rails_projects/demo_app/Gemfile",
+		"/Users/chriswm/rails_projects/demo_app/.gitignore",
+		"/Users/chriswm/rails_projects/demo_app/Rakefile",
+		"/Users/chriswm/rails_projects/first_app/.gitignore",
+		"/Users/chriswm/rails_projects/first_app/README.rdoc",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/chriswm/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heroku.png",
+			"photo-placeholder.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.tests":
+	{
+		"height": 89.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"stati",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"ap",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"sta",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"comm",
+				"app/models/comment.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"com",
+				"app/models/comment.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"arti",
+				"app/models/article.rb"
+			],
+			[
+				"catego",
+				"app/models/category.rb"
+			],
+			[
+				"log",
+				"log/development.log"
+			],
+			[
+				"artic",
+				"app/models/article.rb"
+			],
+			[
+				"comment",
+				"app/models/comment.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true
+}
