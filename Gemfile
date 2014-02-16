@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.2'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'pg'
-
+gem 'bcrypt-ruby'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
